@@ -2,7 +2,7 @@ const fs = require('fs');
 
 let books = [];
 
-// Load books data from file
+// Load books data from file book.json
 try {
     books = JSON.parse(fs.readFileSync('data/books.json'));
 } catch (error) {
