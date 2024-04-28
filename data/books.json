@@ -1,0 +1,26 @@
+[
+  {
+    "bookId": "1",
+    "title": "how to code",
+    "author": "nancy",
+    "genre": "education",
+    "isLoanedOut": false,
+    "loanedTo": null
+  },
+  {
+    "bookId": "2",
+    "title": "harry potter",
+    "author": "mavel",
+    "genre": "fiction",
+    "isLoanedOut": true,
+    "loanedTo": null
+  },
+  {
+    "bookId": "3",
+    "title": "dress making",
+    "author": "precious",
+    "genre": "fashion",
+    "isLoanedOut": false,
+    "loanedTo": null
+  }
+]
