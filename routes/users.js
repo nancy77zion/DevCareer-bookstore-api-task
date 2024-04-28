@@ -2,7 +2,7 @@ const fs = require('fs');
 
 let users = [];
 
-// Load users data from file
+// Load users data from file users.json
 try {
     users = JSON.parse(fs.readFileSync('data/users.json'));
 } catch (error) {
